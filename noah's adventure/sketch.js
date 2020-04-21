@@ -5,7 +5,7 @@ let level = 1
 
 function preload() {
   noah = loadImage('noah.png')
-  peanut = loadImage('peanut.jpg')
+  peanut = loadImage('peanut.png')
   font = loadFont('font.ttf')
 }
 
