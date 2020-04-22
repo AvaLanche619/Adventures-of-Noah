@@ -30,17 +30,10 @@ function draw() {
 
     image(panda, 0, 0, panda.width, panda.height)
 
-  //text("- Yes, I'm the new employee.", 50, 540)
-  //text("- Nope, I just wanted to wear a uniform and pretend to work.", 50, 580)
-  //text("- Yes, I'm the new employee.", 50, 520)
-  //text("- Nope, I just wanted to wear a uniform \nand pretend to work.", 50, 560)
-
-
   if (frameCount % 30 == 0) {
     // if the frameCount is divisible by 60, then a second has passed
     timer1 = timer1 + 1
   }
-  print(timer2)
 
   if (level === 1) {
 
