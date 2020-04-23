@@ -25,7 +25,7 @@ let tint4 = 255
 let tint5 = 255
 let tint6 = 0
 
-let page = 1
+let page = 0
 
 function preload() {
 
