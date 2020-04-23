@@ -600,6 +600,7 @@ function draw() {
       }
     }
 //*/
+  }
 }
 
 function textbox() {
