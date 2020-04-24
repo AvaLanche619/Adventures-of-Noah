@@ -277,7 +277,7 @@ function draw() {
       text("Hit snooze?", 50, 370)
     }
 
-    if (timer > 28) {
+    if (timer > 21) {
 
       if (optionOne2 === true) {
 
