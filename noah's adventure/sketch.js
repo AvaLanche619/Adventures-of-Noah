@@ -9,7 +9,7 @@ let tint2551 = 255
 let tint2552 = 255
 let tint2553 = 255
 
-let chap1Page = 29
+let chap1Page = 0
 
 function preload() {
 
