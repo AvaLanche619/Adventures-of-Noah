@@ -15,7 +15,7 @@ function preload() {
 
   //load backgrounds
   bedroom = loadImage('bedroom.png')
-  house_kitchen = loadImage('house_kitchen.jpg')
+  house_kitchen = loadImage('house_kitchen.png')
   bathroom = loadImage('bathroom.jpg')
   hall = loadImage('hall.jpg')
   crosswalk = loadImage('crosswalk.jpg')
